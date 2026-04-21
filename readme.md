@@ -229,7 +229,7 @@ Here is a list of them:
 The [issue tracker](/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
 For pull requests, editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
-
+Testing Jenkins Poll SCM trigger
 
 
 
